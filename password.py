@@ -1,5 +1,3 @@
-
-
 import pickle
 import time
 from termcolor import colored
